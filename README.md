@@ -1,2 +1,2 @@
 # git-test
-I'm just learning to work with GitHub from my laptop's command line.
+I'm just practicing pushing local projects to GitHub repository from my laptop's command line.
